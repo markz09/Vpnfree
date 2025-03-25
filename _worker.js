@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // Variables
 const rootDomain = "sidpvt.my.id"; // Ganti dengan domain utama kalian
 const serviceName = "deddzvpn"; // Ganti dengan nama workers kalian
-const apiKey = "s22bsB2NndC3F9ztuCUVsK0xk5qgvW32dUZhw1It"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const apiKey = "zU_XwWm5A3aIznjXqZI755Jdbp35MiMLnr58ZJBF"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "Dedidanu6@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "d6f23f9a3b731a3090ec52573e939c4e"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = "ae00d95b3eabb49d77e01429c1418439"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
